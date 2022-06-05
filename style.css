@@ -11,7 +11,7 @@ body{
     background: gray;
 }
 .table2{
-    width: 50%;
+    width: 70%;
     margin: 40px auto;
     background: gray;
 }
@@ -36,7 +36,7 @@ tr:nth-child(even), table.list thread> tr{
 }
 
 input[type="text"],input[type="number"]{
-    width:91%;
+    width:70%;
     padding:12px 20px;
     margin:8px 0;
     display: inline-block;
