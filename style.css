@@ -5,13 +5,22 @@ body{
     background-size: cover;
 }
 
-table{
-    width: 80%;
+.table1{
+    width: 50%;
+    margin: 40px auto;
+    background: gray;
+}
+.table2{
+    width: 50%;
     margin: 40px auto;
     background: gray;
 }
 
-table.list{
+.table1.list{
+    text-align: center;
+    width: 100%;
+}
+.table2.list{
     text-align: center;
     width: 100%;
 }
